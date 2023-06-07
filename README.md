@@ -1,7 +1,9 @@
 ### Hi! 👋 I am Alina!
 
 🌊 I'm passionate about the intersection of technology and natural world, and I hope to bring a unique blend of scientific expertise and coding skills to the table. 
-🧬 I have a a background in genetics and experimental biology, however my drive to contribute to the world in a sustainable and impactful way led me to pursue a career in tech. 
+
+🧬 I have a a background in genetics and experimental biology, however my drive to contribute to the world in a sustainable and impactful way led me to pursue a career in tech.
+
 💻 I'm currently exploring the world of code in an extraordinary coding school [42 Wolfsburg](https://42wolfsburg.de)✨
 
 <img src="https://komarev.com/ghpvc/?username=ialinaok&style=flat-square&color=blue" alt=""/>
