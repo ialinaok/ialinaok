@@ -6,7 +6,7 @@
 
 🧬 With a background in genetics and experimental biology, I'm driven by the wonders of the natural world and the potential of technology to make a positive impact.
 
-🌊 After diving into the intricacies of natural sciuences, I discovered a desire to make a sustainable and meaningful contribution to the world. This led me to transition into the field of technology, where I hope to apply my skills to meaningful projects.
+🌊 After diving into the intricacies of natural sciuences, I discovered a desire to make a sustainable and meaningful contribution to the world. This led me to transition into the field of technology, where I hope to apply my skills to address pressing issues.
 
 💻 Currently, I'm deepening my knowledge of programming languages like C and C++ (and more!) at the extraordinary [42 Wolfsburg](https://42wolfsburg.de), which provides a solid foundation for me to tackle complex coding problems and develop executive mindset.
 
